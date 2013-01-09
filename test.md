@@ -1,2 +1,2 @@
-*Markdown test*
+=Markdown test=
 This is some text to start with...
